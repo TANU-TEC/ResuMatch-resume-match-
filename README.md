@@ -19,10 +19,10 @@ Before you begin, ensure you have the following installed on your system:
 
 ### Installation
 
-1.  **Clone the repository:**
-    ```
-    git clone <your-repository-url>
-    cd smart-resume-analyzer
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/TANU-TEC/ResuMatch-resume-match-.git
+   cd ResuMatch-resume-match-
     ```
 2.  **Create a virtual environment (recommended):**
     ```
