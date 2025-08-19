@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+python-docx
+spacy
+numpy
+PyPDF2
+scikit-learn
+fuzzywuzzy
+rapidfuzz
+pandas
+python-Levenshtein
+nltk
+phonenumbers
